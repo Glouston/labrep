@@ -1,16 +1,34 @@
 # TIIIT Lab 10
-## Author: Gleb
+**Author:** *Gleb*
 **Variant:** 13
 
-### Description
-This repository contains a simple C++ file as part of the GitHub lab work.
+## Description
+This project is created for educational purposes and demonstrates basic GitHub usage.
 
-### List of steps:
-- [x] Created local repository
-- [x] Made several commits
-- [x] Pushed to GitHub
-- [ ] Fork repository
+### Features
+- Version control with Git
+- Working with remote repositories
+- Markdown documentation
+- License management
 
+#### Subsection Example
+1. Step one
+2. Step two
+   1. Substep A
+   2. Substep B
+3. Step three
+
+[GitHub](https://github.com)
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+### Example Code
 ```cpp
-int main() { return 0; }
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, TIIIT Lab 10!" << endl;
+    return 0;
+}
 ```
